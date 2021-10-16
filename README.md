@@ -8,8 +8,7 @@ Indústria.
 Brasil.
 
   O experimento fonte dos dados consistiu em um protótipo montado sobre uma bancada, em diversas condições operacionais, sendo monitorado constantemente por sensores posicionados estrategicamente de modo a medir as unidades de tensão e corrente elétrica, além de vibrações mecânicas.
-  
-    O motor em questão foi submetido a cinco tipos de condicionamento, sendo eles: Motor Normal (sem barra quebrada), Motor com 1, 2, 3 e 4 barras quebradas em condições de torque 5, 10,15, 20, 25, 30, 35 e 40 Nm. Os sensores forneceram os dados que serviram de base para este trabalho.
+      O motor em questão foi submetido a cinco tipos de condicionamento, sendo eles: Motor Normal (sem barra quebrada), Motor com 1, 2, 3 e 4 barras quebradas em condições de torque 5, 10,15, 20, 25, 30, 35 e 40 Nm. Os sensores forneceram os dados que serviram de base para este trabalho.
     
   Para o desenvolvimento do trabalho foi necessário aprofundar os conhecimentos em uma das técnicas matemáticas mais utilizadas quando se trata da transformação de sinais elétricos, a Fast Fourier Transform (FFT) sendo que esta técnica fundamental no processo de transformação dos dados para este trabalho.
   
