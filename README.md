@@ -22,15 +22,27 @@ Link de Referência
 https://ieee-dataport.org/open-access/experimental-database-detecting-and-diagnosing-rotor-broken-bar-three-phase-induction
 
 Dicionário de Atributos
+
 Va = Tensão A
+
 Vb = Tensão B
+
 Vc = Tensão C
+
 Ia = Corrente A
+
 Ib = Corrente B 
+
 Ic = Corrente C
+
 Vib_acpi = Global de aceleração radial lado acoplado
+
 Vib_carc = Global de aceleração in the house 2V
+
 Vib_acpe = Global de aceleração radial lado não acoplado
+
 Trigger = Tensão constante  5V
+
 Vib_axial = Global de aceleração axial lado acoplado
+
 Vib_base = Global de aceleração na base
