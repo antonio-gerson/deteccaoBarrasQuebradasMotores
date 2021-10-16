@@ -1,7 +1,6 @@
-# Detecção de Barras Quebradas em Motores Elétricos
+# Detecção por Inteligência Artificial de Barras Quebradas em Rotores de Motores de Indução Trifásicos.
     
-    Detecção por Inteligência Artificial de Barras Quebradas em Rotores de Motores de Indução Trifásicos.
-    
+       
   A coleta de dados dos equipamentos é uma atividade rotineira dos atores da Manutenção Preditiva, sendo que os dados formam a matéria-prima quando se trata de Data Science. A junção dessas ferramentas possibilita desenvolver métodos preditivos contribuindo para a evolução da
 Indústria.
 
