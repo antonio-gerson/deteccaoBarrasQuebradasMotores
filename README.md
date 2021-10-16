@@ -14,3 +14,9 @@ Brasil.
   
   Dentre as ferramentas utilizadas neste trabalho, destacam-se a linguagem de programação Python e as bibliotecas Pandas, Numpy, Scikit Learn e Tensor Flow. A biblioteca mat73 foi necessária pois os dados do experimento utilizado se encontravam em formato .mat (matlab) e o intuito era se trabalhar a partir de arquivos do tipo csv. Para a etapa de Feature Enginnering utilizou-se as técnicas de FFT e Principal Component Analysis (PCA) e a modelagem com Redes Neurais
 Artificiais.
+
+Link para os arquivos
+https://drive.google.com/drive/folders/1Ay_c-d137PW_44xVhtim3GM9D7jKvVxE?usp=sharing
+
+Link de Referência
+https://ieee-dataport.org/open-access/experimental-database-detecting-and-diagnosing-rotor-broken-bar-three-phase-induction
